@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 1
-        resnet: 1
-        anomaly detection: 1
+        #kaggle: 1
+        #resnet: 1
+        #anomaly detection: 1
         recommend: 3
 
 # 通知の閾値
