@@ -5,8 +5,11 @@ subject: 'cat:cs.*'
 keywords:
         #kaggle: 1
         #resnet: 1
-        #anomaly detection: 1
+        anomaly: 1
         recommend: 3
+        graph: 2
+        bandit: 1
+        facebook: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 4
