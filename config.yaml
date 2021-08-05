@@ -10,6 +10,12 @@ keywords:
         graph: 2
         bandit: 1
         facebook: 1
+        word2vec: 1
+        item2vec: 1
+        google: 1
+        twitter: 1
+        tiktok: 1
+        xai: 1
 
 # 通知の閾値
 score_threshold: 4
