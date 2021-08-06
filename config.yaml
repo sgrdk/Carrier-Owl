@@ -18,4 +18,4 @@ keywords:
         xai: 1
 
 # 通知の閾値
-score_threshold: 3
+score_threshold: 4
