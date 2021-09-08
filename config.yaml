@@ -6,16 +6,25 @@ keywords:
         #kaggle: 1
         #resnet: 1
         anomaly: 1
-        recommend: 3
+        recommend: 1
+        recommender: 1
+        recommendation: 1
         graph: 2
         bandit: 1
-        facebook: 1
+        Facebook: 1
         word2vec: 1
         item2vec: 1
-        google: 1
-        twitter: 1
-        tiktok: 1
+        Google: 1
+        Twitter: 1
+        Tiktok: 1
+        Rakuten: 1
+        Netflix: 1
+        AWS: 1
         xai: 1
+        Spotify: 1
+        optimization: 1
+        contextual: 1
+        collaborative: 1
 
 # 通知の閾値
 score_threshold: 4
