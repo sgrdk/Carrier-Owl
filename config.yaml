@@ -12,6 +12,7 @@ keywords:
         Facebook: 1
         word2vec: 1
         item2vec: 1
+        doc2vec: 1
         Google: 1
         Twitter: 1
         Tiktok: 1
@@ -23,6 +24,7 @@ keywords:
         optimization: 1
         contextual: 1
         collaborative: 1
+        embedding: 1
 
 # 通知の閾値
 score_threshold: 4
