@@ -25,6 +25,7 @@ keywords:
         contextual: 1
         collaborative: 1
         embedding: 1
+        reinforcement: 1
 
 # 通知の閾値
 score_threshold: 4
